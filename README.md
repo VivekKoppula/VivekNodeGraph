@@ -44,3 +44,11 @@ Used MaterialEditor in my Engine.
 　  
 # License
 *  [MIT](https://github.com/Jinten/NodeGraph/blob/master/LICENSE)
+*  
+
+# Reference
+1. https://github.com/Kemsekov/GraphSharp
+2. https://github.com/Kemsekov/GraphSharp.Samples
+3. https://www.nuget.org/packages/Kemsekov.GraphSharp.GoogleOrTools
+4. https://www.nuget.org/packages/Kemsekov.GraphSharp/
+
